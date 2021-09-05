@@ -11,7 +11,7 @@ const ceilings = document.querySelector('input[name="ceiling"]')
 const walls = document.querySelector('input[name="walls"]')
 const floor = document.querySelector('input[name="floor"]')
 
-const basePrice = 6000;
+const basePrice = 3000;
 const totalPriceElement = document.querySelector('#total-price')
 
 squareRange.addEventListener('input',function(){
